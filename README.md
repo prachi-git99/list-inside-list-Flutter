@@ -1,16 +1,16 @@
-# redoq_assignment_prachi
+# Nested list assignment
 
-A new Flutter project.
+PREREQUISITES Flutter 3.16.5 • Dart 3.2.3
 
-## Getting Started
+STEPS TO RUN PROJECT:
 
-This project is a starting point for a Flutter application.
+1.Clone the repo
+2.Check for Flutter and Dart version
+3.Connect with emulator
+4.Run command on terminal: 1. Flutter clean 2. Flutter pub get 3. Flutter run
 
-A few resources to get you started if this is your first Flutter project:
+# APK:
+  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Screenshot
+![localhost_60087_(Pixel 7)](https://github.com/user-attachments/assets/a01bc885-c9cb-47de-a283-9905a8c1ecf5)
